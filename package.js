@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-	'phantomjs': '1.9.9'
+	'phantomjs2': '2.0.1'
 });
 
 Package.onUse(function(api) {
